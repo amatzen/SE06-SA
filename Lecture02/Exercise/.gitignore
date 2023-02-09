@@ -1,0 +1,9 @@
+*.dll
+*.so
+*.cache
+*.targets
+*.props
+*.CopyComplete
+*.pdb
+*.dylib
+
