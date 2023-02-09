@@ -1,4 +1,4 @@
-- [ ] Install Kafka
+- [x] Install Kafka
 - [ ] Select a system as a foundation for architecture practicing. It can be a system from earlier projectsthat you want to develop further, or a system you want to develop.The main point is to have a basis for working with the architectural concepts in future exercises not to develop a fully functional system.
 - [ ] Shortlydescribethe mission of the systemin a couple of sentences.
 - [ ] Give your understanding of documenting the software architectureof the chosen system. The documentation should at least contain a module view, component and connector view, and allocation view, but other notations are also allowed. To each view, provide a short description of the design rationale. Remember to keep the architectural documentation at a sufficient abstraction level such that details that don't impact the essential design decisions are omitted.
